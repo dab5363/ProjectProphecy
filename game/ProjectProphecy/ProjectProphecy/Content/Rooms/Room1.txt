@@ -1,0 +1,30 @@
+19 15
+X X X X X X X X ~ ~ ~ X X X X X X X X
+X X X X X X X X ~ ~ ~ X X X X X X X X
+X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ X X
+X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ E ~ X X
+X X ~ ~ ~ ~ X X ~ ~ ~ ~ ~ ~ ~ ~ ~ X X
+X X ~ ~ ~ ~ X X ~ ~ ~ ~ ~ ~ ~ ~ ~ X X
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ X X
+X X ~ ~ E ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ X X
+X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ E ~ ~ ~ X X
+X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ X X
+X X X X X X X X ~ ~ ~ X X X X X X X X
+X X X X X X X X ~ ~ ~ X X X X X X X X
+
+Rooms:
+Right: MainHallV1
+
+ENEMIES:
+Kunshkov
+Kunshkov
+Braxion
+STOP
+
+Key:
+X = Wall tile
+~ = Floor tile
+E = Enemy

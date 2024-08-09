@@ -1,0 +1,27 @@
+19 15
+X X X X X X X X ~ ~ ~ X X X X X X X X
+X X X X X X X X ~ ~ ~ X X X X X X X X
+X X X X X X X X ~ ~ ~ ~ ~ ~ ~ X X X X
+X X X X X X X X ~ ~ ~ ~ ~ ~ ~ X X X X
+X X X X X X X X ~ ~ ~ ~ ~ ~ ~ X X X X
+X X X X X X X X X X X X ~ ~ ~ X X X X
+~ ~ ~ ~ ~ ~ ~ X X X X X ~ ~ ~ ~ ~ ~ ~
+~ ~ ~ ~ ~ ~ ~ X X X X X ~ ~ ~ ~ ~ ~ ~
+~ ~ ~ ~ ~ ~ ~ X X X X X ~ ~ ~ ~ ~ ~ ~
+X X X X ~ ~ ~ X X X X X X X X X X X X
+X X X X ~ ~ ~ ~ ~ ~ ~ X X X X X X X X
+X X X X ~ ~ ~ ~ ~ ~ ~ X X X X X X X X
+X X X X ~ ~ ~ ~ ~ ~ ~ X X X X X X X X
+X X X X X X X X ~ ~ ~ X X X X X X X X
+X X X X X X X X ~ ~ ~ X X X X X X X X
+
+Rooms:
+Left: MainHallV1
+
+ENEMIES:
+STOP
+
+Key:
+X = Wall tile
+~ = Floor tile
+E = Enemy

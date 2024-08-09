@@ -1,0 +1,28 @@
+19 15
+X X X X X X X X X X X X X X X X X X X
+X X X X X X X X X X X X X X X X X X X
+X X X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ X X X X
+X X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ X X X
+X X ~ ~ ~ ~ ~ ~ ~ E ~ ~ ~ ~ ~ ~ ~ X X
+X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ X X
+X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ X X
+X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ X X
+X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ X X
+X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ X X
+X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ X X
+X X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ X X X
+X X X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ X X X X
+X X X X X X X X ~ ~ ~ X X X X X X X X
+X X X X X X X X ~ ~ ~ X X X X X X X X
+
+Rooms:
+Bottom: MainHallV1
+
+ENEMIES:
+Runevark
+STOP
+
+Key:
+X = Wall tile
+~ = Floor tile
+E = Enemy

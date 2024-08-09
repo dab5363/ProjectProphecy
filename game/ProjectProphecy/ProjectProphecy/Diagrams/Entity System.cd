@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="ProjectProphecy.ns_Entity.EntityManager">
+    <Position X="4.25" Y="0.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAQAAAAgAAAAABAACEAAAFAQEAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity\EntityManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectProphecy.ns_Entity.LivingEntity">
+    <Position X="9.25" Y="0.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>mBSACGyICAAAqIAgASKAGCQTgKEAAQEgAAAggIIAAKg=</HashCode>
+      <FileName>Entity\Abstract\LivingEntity.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ActionState" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ProjectProphecy.ns_Entity.Player">
+    <Position X="4.25" Y="8.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAACAAAAAAAAAAgAAgAAAAIAAAACA=</HashCode>
+      <FileName>Entity\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectProphecy.ns_Entity.Enemy">
+    <Position X="6.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectProphecy.ns_Entity.NPC">
+    <Position X="6.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity\NPC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectProphecy.ns_Entity.ActionState">
+    <Position X="4" Y="4.25" Width="4" />
+    <TypeIdentifier>
+      <HashCode>IAQCAAIAAAAAAAAEAAAAACSAAAAAAAAAAAAAAAAAAiQ=</HashCode>
+      <FileName>Entity\ActionState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ProjectProphecy.ns_Entity.IMoveable">
+    <Position X="13.5" Y="0.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAIAAAAAgACAABAIBAAAAAAGAAAABAAAEAIA=</HashCode>
+      <FileName>Entity\Abstract\IMoveable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ProjectProphecy.ns_Graphics.IAnimatable">
+    <Position X="13.5" Y="7" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>CASAACAACABAAAAAAAAACAAQgAAEAAEAAAAAAEAgACk=</HashCode>
+      <FileName>Graphics\IAnimatable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ProjectProphecy.ns_Entity.IDamageable">
+    <Position X="13.5" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAACAAAAAAAAAQAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Entity\Abstract\IDamageable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ProjectProphecy.ns_Entity.IEntity">
+    <Position X="17.25" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAIAAAQAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity\Abstract\IEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ProjectProphecy.ns_Graphics.IDrawable">
+    <Position X="17.25" Y="7" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEIAAAAIAAQQAIAAAAAAAAAAgAIAAAAA=</HashCode>
+      <FileName>Graphics\IDrawable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

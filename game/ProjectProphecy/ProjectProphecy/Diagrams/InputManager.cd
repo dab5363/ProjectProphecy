@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="ProjectProphecy.ns_Controls.InputManager">
+    <Position X="4" Y="2.75" Width="4" />
+    <TypeIdentifier>
+      <HashCode>CA4AAABAIAAAAAAAQAKAAggEQIAAAAEAADAAIAAAEAg=</HashCode>
+      <FileName>Controls\InputManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

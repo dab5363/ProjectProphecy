@@ -1,0 +1,31 @@
+19 15
+X X X X X X X X ~ ~ ~ X X X X X X X X
+X X X X X X X X ~ ~ ~ X X X X X X X X
+X X X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ X X X X
+X X X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ X X X X
+X X ~ ~ ~ E ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ X X
+X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ E ~ ~ X X
+~ ~ ~ ~ ~ ~ ~ ~ X X X ~ ~ ~ ~ ~ ~ ~ ~
+~ ~ ~ ~ ~ ~ ~ ~ X X X ~ ~ ~ ~ ~ ~ ~ ~
+~ ~ ~ ~ ~ ~ ~ ~ X X X ~ ~ ~ ~ ~ ~ ~ ~
+X X ~ ~ ~ E ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ X X
+X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ X X
+X X X X ~ ~ ~ ~ ~ ~ ~ ~ ~ E ~ X X X X
+X X X X ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ X X X X
+X X X X X X X X ~ ~ ~ X X X X X X X X
+X X X X X X X X ~ ~ ~ X X X X X X X X
+
+Rooms:
+Bottom: MainHallV1
+
+ENEMIES:
+Duvarah
+Duvarah
+Duvarah
+Warinshar
+STOP
+
+Key:
+X = Wall tile
+~ = Floor tile
+E = Enemy

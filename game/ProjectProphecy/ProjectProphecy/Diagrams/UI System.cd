@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="ProjectProphecy.ns_Graphics.CustomUI">
+    <Position X="6.75" Y="1.25" Width="3.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="ProjectProphecy.ns_Graphics.CustomUI.UIBuilder">
+        <TypeIdentifier>
+          <NewMemberFileName>Graphics\UI\CustomUI.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>gAIAAAAAAAAAAiAgAAAAIAACAIIEAgAAAAAAIAAgAAA=</HashCode>
+      <FileName>Graphics\UI\CustomUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectProphecy.ns_Controls.Button">
+    <Position X="10.25" Y="1.25" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="ProjectProphecy.ns_Controls.Button.Events">
+        <TypeIdentifier>
+          <NewMemberFileName>Controls\Button.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAYAAIAAAAAAggAgAAAAIAACAAAgCgABACAACAAIAAA=</HashCode>
+      <FileName>Controls\Button.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectProphecy.ns_Graphics.UIManager">
+    <Position X="3" Y="1.25" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAGAACAEAAABAIIAAgAAAEAAgAAUEAAAAAAAAQAgA=</HashCode>
+      <FileName>Graphics\UI\UIManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

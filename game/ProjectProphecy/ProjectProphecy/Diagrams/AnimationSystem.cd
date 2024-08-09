@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="ProjectProphecy.ns_Graphics.AnimationManager">
+    <Position X="2.5" Y="2.75" Width="5.25" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAICAAAgAAAAgwAAAEAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Graphics\AnimationManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjectProphecy.ns_Graphics.Animation">
+    <Position X="8.25" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEIAAAACgAAEAIAAAEQSAAAEAgAAABBAAYAAEAE=</HashCode>
+      <FileName>Graphics\Animation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ProjectProphecy.ns_Graphics.IAnimatable">
+    <Position X="5.25" Y="6.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>CASAACAACABAAAAAAAAACAAQgAAEAAEAAAAAAEAgACk=</HashCode>
+      <FileName>Graphics\IAnimatable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ProjectProphecy.ns_Graphics.IDrawable">
+    <Position X="2.5" Y="6.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEIAAAAIAAQQAIAAAAAAAAAAgAIAAAAA=</HashCode>
+      <FileName>Graphics\IDrawable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

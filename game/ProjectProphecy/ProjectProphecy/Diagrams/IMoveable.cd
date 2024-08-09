@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Interface Name="ProjectProphecy.ns_Entity.IMoveable">
+    <Position X="3.25" Y="3" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAIAAAAAgACAABAIBAAAAAAGAAAABAAAEAIA=</HashCode>
+      <FileName>Entity\Abstract\IMoveable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
